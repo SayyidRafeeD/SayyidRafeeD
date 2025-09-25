@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m a second-year student at Universitas Pembangunan Nasional Veteran Jakarta, majoring in Information Systems. I’m passionate about technology, coding, and building cool projects! Currently, I'm focused on improving my skills and learning new technologies that will help me achieve my goal of becoming a Distinguished Engineer in the future.</p>
+<p align="left">I’m a second-year student at Universitas Pembangunan Nasional Veteran Jakarta, majoring in Information Systems..</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">Contact Me</h2>
+<h2 align="left">You Can Contact Me</h2>
 
 ###
 
