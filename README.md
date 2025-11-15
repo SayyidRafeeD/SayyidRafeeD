@@ -11,7 +11,7 @@
 
 ### 
 
-<h2 align="left">FE</h2>
+<h2 align="left">Frontends</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">BE</h2>
+<h2 align="left">Backends</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -41,7 +41,7 @@
 
 ###
 
-<h2 align="left">Database</h2>
+<h2 align="left">Databases</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
