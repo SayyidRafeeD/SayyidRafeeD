@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋</h1>
-
 ###
 
-<p align="left">I’m a second-year student at Universitas Pembangunan Nasional Veteran Jakarta, majoring in Information Systems. Passionate about full-stack development and constantly learning new technologies to build scalable and efficient solutions.</p>
+<p align="left">Hi! I’m a second-year student at Universitas Pembangunan Nasional Veteran Jakarta, majoring in Information Systems. Passionate about full-stack development and constantly learning new technologies to build scalable and efficient solutions.</p>
 
 ###
 
@@ -28,7 +26,7 @@
 
 <h2 align="left">Backends</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
   <img width="12" />
@@ -36,7 +34,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" height="40" alt="bun logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  <img src="https://www.borntodev.com/wp-content/uploads/2024/03/expressjs_logo-1024x729.png" height="40" alt="express logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
 ###
