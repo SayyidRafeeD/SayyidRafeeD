@@ -98,9 +98,12 @@
 <div align="left">
 </div>
 
+<h4 align=right>Fern by <a href="https://www.pixiv.net/en/artworks/114965680">TTuSee</a></h4>
+
 ###
   
 <h4 align="left">Come Contact Me</h2>
+
 <div align="left">
   <a href="https://www.linkedin.com/in/m-sayyid-rafee-djamil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -108,8 +111,8 @@
   <a href="https://www.instagram.com/rafeedjamil/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
+
 </div>
   
 </div>
 
-<h4 align=right>Fern by <a href="https://www.pixiv.net/en/artworks/114965680">TTuSee</a></h4>
